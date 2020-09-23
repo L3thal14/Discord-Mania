@@ -10,6 +10,8 @@
 ```
 ## Install
 Insert Discord Bot token obtained from [Discord Developer Portal](https://discord.com/developers/applications) in Line 57
+
+
 ``` bot.run('') # Add Discord Bot authentication Token from Discord Developer Portal ```
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/L3thal14)
