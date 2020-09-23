@@ -6,6 +6,8 @@
 
    <li> <img src="https://github.com/L3thal14/Discord-Mania/blob/master/assets/logos/mlhlogo.png?raw=true" height="20" />  <a href="https://github.com/L3thal14/Discord-Mania/tree/master/MLH%20Discord%20Bot">MLH Hackathon Bot</a></li>
 </ul>
+<br>
+<br>
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/L3thal14)
 
