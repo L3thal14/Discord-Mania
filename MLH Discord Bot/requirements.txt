@@ -1,0 +1,16 @@
+beautifulsoup4==4.8.2
+bs4==0.0.1
+discord.py==1.4.1
+lxml==4.5.0
+mechanize==0.4.5
+ngrok==0.0.1
+numpy==1.18.2
+oauth2client==4.1.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+python-dateutil==2.8.1
+python-dotenv==0.14.0
+requests==2.24.0
+requests-toolbelt==0.9.1
+urllib3==1.25.8
+websocket-client==0.57.0
