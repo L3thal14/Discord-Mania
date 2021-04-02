@@ -1,7 +1,7 @@
 beautifulsoup4==4.8.2
 bs4==0.0.1
 discord.py==1.4.1
-lxml==4.5.0
+lxml==4.6.3
 mechanize==0.4.5
 ngrok==0.0.1
 numpy==1.18.2
